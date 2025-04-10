@@ -10,10 +10,10 @@
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
   <groupId>com.pikecape.springboot.data</groupId>
-  <artifactId>springboot-data-jdbc</artifactId>
+  <artifactId>springboot-data-jdbc-api</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>springboot-data-jdbc</name>
-  <description>springboot-data-jdbc</description>
+  <name>springboot-data-jdbc-api</name>
+  <description>springboot-data-jdbc-api</description>
   <url/>
   <licenses>
     <license/>
