@@ -38,7 +38,7 @@ public class DucksController {
     return duckService.createDuck(duck);
   }
 
-  @PutMapping
+  @PutMapping("/{uid}")
   public Duck updateDuck(
       @PathVariable String uid,
       @RequestBody Duck duck
