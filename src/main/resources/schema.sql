@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS `DUCKS` (
+    `id` int AUTO_INCREMENT PRIMARY KEY,
+    `uid` VARCHAR(100) NOT NULL,
+    `name` VARCHAR(100) NOT NULL,
+    `created_at` TIMESTAMP NOT NULL,
+    `updated_at` TIMESTAMP NULL
+);
